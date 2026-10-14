@@ -1,0 +1,6 @@
+{
+  "name": "MegaStore - Modern E-Commerce",
+  "description": "A refined full-stack e-commerce store with 300 products, real-time cart, user authentication, and seamless order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
